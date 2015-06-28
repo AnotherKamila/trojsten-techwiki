@@ -1,6 +1,6 @@
 # TechWiki Trojstenu
 
-[Pre neroota]()
+[Pre používateľa]()
 
   - # čo ťa zaujíma aj keď nie si root
   - [Trojstenový účet](user/ucet.md)
@@ -17,6 +17,7 @@
   -------------------
   - # playbooks
   - [Správa užívateľov](playbooks/users.md)
+  - [Update systému](playbooks/update.md)
   - [Čo ja viem, čo ešte]()
   -------------------
   - # meta
@@ -53,10 +54,12 @@
 [Prečo]()
 
   - # Pokec k rôznym technickým rozhodnutiam
+  - [The Grand Unified Trojsten](meta/gut.md)
   - [Architektúra/servery](preco/architektura.md)
-  - [Prečo takáto wiki](preco/wiki.md)
+  - [Prečo FreeBSD](preco/freebsd.md)
   -------------------
-  - # užívateľa priamo ovplyvňujúce veci
+  - # veci neovplyvňujúce konfiguráciu
+  - [Prečo takáto wiki](preco/wiki.md)
   - [Prečo sa zadania robia tak, ako sa robia](preco/zadania.md)
 
 
