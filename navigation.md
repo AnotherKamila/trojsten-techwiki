@@ -31,8 +31,10 @@
   - [Sieť a mašiny](masiny.md)
   -------------------
   - # servery
-  - [inteligent](inteligent.md)
-  - [ekvivalent](ekvivalent.md)
+  - [inteligent](servers/inteligent.md)
+  - [ekvivalent](servers/ekvivalent.md)
+  -------------------
+  - [Backupy](servers/backups.md)
   -------------------
   - # služby
   - [seminárové weby](sluzby/weby.md)
@@ -66,3 +68,4 @@
 [gimmick:theme](flatly)
 
 <!-- ako sa používa tento súbor: https://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation -->
+<!-- TODO toto menu nedava zmysel, ani ten directory tree nedava zmysel, a su prilis rozne a cele to nedava zmysel, treba to opravit, aby to davalo zmysel! -->
