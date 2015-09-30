@@ -34,6 +34,7 @@
   - [inteligent](servers/inteligent.md)
   - [ekvivalent](servers/ekvivalent.md)
   -------------------
+  - # setup spoločný pre všetky mašiny
   - [Backupy](servers/backups.md)
   -------------------
   - # služby
